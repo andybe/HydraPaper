@@ -11,6 +11,8 @@ Build-Depends:
  gettext,
  libappstream-glib-dev,
  meson (>= 0.40.0),
+ gtk-update-icon-cache,
+ desktop-file-utils,
  pkg-config,
  python3-all
 
